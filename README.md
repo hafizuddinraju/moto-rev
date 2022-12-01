@@ -25,5 +25,4 @@ if buyer make payment then confirm a sweet alert. i am complete dashboard.
 
 My project Live:[https://bike-expo-6a5b5.web.app/](https://bike-expo-6a5b5.web.app/)
 
-Admin : hafiz@gmail.com
-pass :123456
+
